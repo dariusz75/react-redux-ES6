@@ -1,5 +1,6 @@
 // this is the main component handling the App template used on every page
-impotr React, {PropTypes} from 'react'; 
+
+import React, {PropTypes} from 'react';
 
 class App extends React.Component {
     render() {
