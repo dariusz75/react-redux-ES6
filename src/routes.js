@@ -1,6 +1,6 @@
 import React from 'react';
 import {Route, IndexRoute} from 'react-router'; /* IndexRoute potrzebny do zaimplementowania sciezki w przypadku gdy adres url skonczy sie / -slashem  */
-import App from './components/App';
+import App from './components/app';
 import HomePage from './components/home/HomePage';
 import AboutPage from './components/about/AboutPage';
 import CoursesPage from './components/course/CoursesPage';
